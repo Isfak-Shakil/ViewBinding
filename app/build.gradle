@@ -8,6 +8,7 @@ android {
 //      enabled= true
 //  }
     viewBinding.enabled=true
+    dataBinding.enabled=true
     defaultConfig {
         applicationId "com.example.viewbinding"
         minSdk 21

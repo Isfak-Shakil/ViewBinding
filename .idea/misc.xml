@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/ViewBinding/app/src/main/res/layout/activity_data_binding.xml" value="0.1859375" />
         <entry key="..\:/AndroidProjects/ViewBinding/app/src/main/res/layout/activity_main.xml" value="0.18385416666666668" />
         <entry key="..\:/AndroidProjects/ViewBinding/app/src/main/res/layout/recycler_root.xml" value="0.1623931623931624" />
       </map>
